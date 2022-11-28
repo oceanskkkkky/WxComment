@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T02:44:16.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="itGRO4yOywRhM37XDHOL" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T02:45:01.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6vCe4DD63Vc8fQ8ff1QB" version="20.6.0" type="github">
   <diagram id="ezt5YXl6MBS59BxsCnl_" name="第 1 页">
     <mxGraphModel dx="1022" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
             <mxPoint x="430" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtNMip4K_nn4baayEAyn-14" value="Notify&amp;nbsp;&lt;br&gt;GameEffect&lt;br&gt;GameCue&lt;br&gt;GameAttributeSet" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="RtNMip4K_nn4baayEAyn-13" connectable="0" vertex="1">
+        <mxCell id="RtNMip4K_nn4baayEAyn-14" value="GameEffect&lt;br&gt;GameCue&lt;br&gt;GameAttributeSet" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="RtNMip4K_nn4baayEAyn-13" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RtNMip4K_nn4baayEAyn-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RtNMip4K_nn4baayEAyn-1" target="RtNMip4K_nn4baayEAyn-3" edge="1">
@@ -40,13 +40,8 @@
             <mxPoint x="505.79999999999995" y="467.7800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtNMip4K_nn4baayEAyn-18" value="Notify&amp;nbsp;&lt;br&gt;GameEffect&lt;br&gt;GameCue&lt;br&gt;GameAttributeSet" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="RtNMip4K_nn4baayEAyn-17" connectable="0" vertex="1">
+        <mxCell id="RtNMip4K_nn4baayEAyn-18" value="&amp;nbsp;GameEffect&lt;br&gt;GameCue&lt;br&gt;GameAttributeSet" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="RtNMip4K_nn4baayEAyn-17" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RtNMip4K_nn4baayEAyn-19" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="RtNMip4K_nn4baayEAyn-17" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-20" y="80" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="RtNMip4K_nn4baayEAyn-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="RtNMip4K_nn4baayEAyn-1" target="RtNMip4K_nn4baayEAyn-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -54,13 +49,8 @@
             <mxPoint x="260" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RtNMip4K_nn4baayEAyn-22" value="Notify&amp;nbsp;&lt;br&gt;GameEffect&lt;br&gt;GameCue&lt;br&gt;GameAttributeSet" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="RtNMip4K_nn4baayEAyn-21" connectable="0" vertex="1">
+        <mxCell id="RtNMip4K_nn4baayEAyn-22" value="GameEffect&lt;br&gt;GameCue&lt;br&gt;GameAttributeSet" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="RtNMip4K_nn4baayEAyn-21" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RtNMip4K_nn4baayEAyn-23" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="RtNMip4K_nn4baayEAyn-21" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-20" y="80" as="offset" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
